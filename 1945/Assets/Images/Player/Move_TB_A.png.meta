@@ -1,10 +1,28 @@
 fileFormatVersion: 2
-guid: 166271ee64846cc47b885747276f6cab
+guid: 53a3287df888489489c15ea84d988952
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: -672194351318965148
     second: Move_TB_A_0
+  - first:
+      213: -356708143287955620
+    second: Move_TB_A_1
+  - first:
+      213: 4573752448897191920
+    second: Move_TB_A_2
+  - first:
+      213: -7642589667820128916
+    second: Move_TB_A_3
+  - first:
+      213: 140169162173566062
+    second: Move_TB_A_4
+  - first:
+      213: -8639410661534128818
+    second: Move_TB_A_5
+  - first:
+      213: 5049729110694540004
+    second: Move_TB_A_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -129,10 +147,10 @@ TextureImporter:
       name: Move_TB_A_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 223
-        height: 76
+        x: 5
+        y: 43
+        width: 23
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,6 +161,138 @@ TextureImporter:
       bones: []
       spriteID: 464eb958cc2eba6f0800000000000000
       internalID: -672194351318965148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_TB_A_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 43
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f05d665d7bc0bf0800000000000000
+      internalID: -356708143287955620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_TB_A_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 43
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff07179e9b397f30800000000000000
+      internalID: 4573752448897191920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_TB_A_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 36
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65b285703110f590800000000000000
+      internalID: -7642589667820128916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_TB_A_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 22
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cc1df3c1bf1f100800000000000000
+      internalID: 140169162173566062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_TB_A_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 13
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e452982e6c5aa1880800000000000000
+      internalID: -8639410661534128818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_TB_A_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 23
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2b5ee1fdd341640800000000000000
+      internalID: 5049729110694540004
       vertices: []
       indices: 
       edges: []
@@ -162,6 +312,12 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Move_TB_A_0: -672194351318965148
+      Move_TB_A_1: -356708143287955620
+      Move_TB_A_2: 4573752448897191920
+      Move_TB_A_3: -7642589667820128916
+      Move_TB_A_4: 140169162173566062
+      Move_TB_A_5: -8639410661534128818
+      Move_TB_A_6: 5049729110694540004
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
