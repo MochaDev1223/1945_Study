@@ -10,8 +10,9 @@ public class Monster : MonoBehaviour
     public GameObject bullet;
 
     // 아이템 가져오기
-    [SerializeField]
-    private GameObject Item;
+    [SerializeField] private GameObject Item;
+    [SerializeField] private GameObject Effect;
+    
 
     void Start()
     {
@@ -37,6 +38,9 @@ public class Monster : MonoBehaviour
     public void OnDamaged(int attack)
     {
         HP -= attack;
+
+        GameObject go = Instantiate(Effect, transform.position, Quaternion.identity);
+        Destroy(go, 1f);
 
         if (HP <= 0)
         {
